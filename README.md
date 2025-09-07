@@ -50,6 +50,7 @@ Result: an updated reference genome incorporating the detected variants.
    - Manage dependencies between steps
    - Write logs to slurm_output/
 
+---
 
 ## Output
 
@@ -58,5 +59,11 @@ Result: an updated reference genome incorporating the detected variants.
    - 3_variants/ → called & filtered BCF files
    - 4_consensus_calling/ → updated reference genome (FASTA)
 
+---
+## Contact
 
+For **bug reports**, **comments**, or **suggestions**, please open an issue here on GitHub.
 
+If you need to reach me directly:
+**Bilal Sharif**
+📧 [bilal.bioinfo@gmail.com](mailto:bilal.bioinfo@gmail.com)
